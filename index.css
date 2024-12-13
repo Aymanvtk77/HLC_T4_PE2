@@ -1,0 +1,28 @@
+body {
+    background-color: #E2E5E7;
+    font-family: "Nunito", sans-serif;
+
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.menu {
+    background-color: #85cef0;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+}
+
+button {
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: space-between;
+    height: 40px;
+    width: 210px;
+}
